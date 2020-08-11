@@ -11,7 +11,7 @@ Please stay tuned for an upcoming Blog to provide you an understanding of the Cl
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see vmwre.com/cloud-foundation
 
 ### Features 
 
