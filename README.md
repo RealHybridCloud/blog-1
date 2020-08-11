@@ -1,35 +1,20 @@
 ## VMware Cloud Foundation - Way to Multi-Cloud Journey 
 
-You can use the [editor on GitHub](https://github.com/RealHybridCloud/blog-1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 Please stay tuned for an upcoming Blog to provide you an understanding of the Cloud Foundation based architectures and multi-cloud architectures 
 
-### Markdown
+### Architecture
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### What is VMware Cloud Foundation 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+**Bold** and _Italic_ and `Code` High Level Design 
 
 [Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Features 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RealHybridCloud/blog-1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
