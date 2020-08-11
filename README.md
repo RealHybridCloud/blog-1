@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to Multi Cloud Blog 
 
 You can use the [editor on GitHub](https://github.com/RealHybridCloud/blog-1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Please stay tuned for an upcoming Blog to provide you an understanding of the Cloud Foundation based architectures and multi-cloud architectures 
 
 ### Markdown
 
