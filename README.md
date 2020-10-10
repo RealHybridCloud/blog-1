@@ -1,4 +1,4 @@
-## VMware Cloud Foundation - Way to Multi-Cloud Journey 
+## VMware Cloud Foundation - Multi-Cloud Journey 
 
 Please stay tuned for an upcoming Blog to provide you an understanding of the Cloud Foundation based architectures and multi-cloud architectures 
 
